@@ -39,7 +39,6 @@ function start() {
         "Delete role",
         "Update employee role",
         "View by manager",
-        
         "Exit"
       ]
     })
@@ -264,7 +263,7 @@ function updateEmployeeRole() {
          
           },
           function (err, res) {
-            // console.table(res);
+            console.table(res);
             start();
           }
         )
