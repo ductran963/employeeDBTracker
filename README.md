@@ -7,7 +7,7 @@ The purpose of this project is learn and understand mysql, creating a table, ins
 
 #### Functionality
 
-The functionality is to create a database with multiple columns and know how to select values or columns from each table. Also we can input values dynamically or deleting values dynamicall so that everytime we update something we dont have to do that for every single row on the table.
+The functionality is to create a database with multiple columns and know how to select values or columns from each table. Also we can input values dynamically or deleting values dynamically so that everytime we update tables we dont have to do that for every single row on the each table.
 
 
 #### Testing on Node.js
