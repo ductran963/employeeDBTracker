@@ -2,7 +2,7 @@
 
 #### Purpose
 
-The purpose of this project is learn and understand mysql, creating a table, inserting values, updating values based on different table, deleting values, viewing different tables, and most important of all, understanding how join works and using the correct join according when necessary.
+The purpose of this project is learn and understand mysql, creating a table, inserting values, updating values based on different table, deleting values, viewing different tables, and most important of all, understanding how join works and using the correct join when necessary.
 
 
 #### Functionality
